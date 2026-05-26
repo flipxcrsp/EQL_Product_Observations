@@ -31,7 +31,7 @@ Less focused on simply "selling product" & more focused on Momentum.
 
 ---
 
-# 🎯 Product Positioning
+# 🧩 Product Positioning
 
 ## Hype Infrastructure
 
