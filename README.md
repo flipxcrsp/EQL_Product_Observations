@@ -20,7 +20,7 @@ The platform is controlling chaos without killing excitement.
 
 EQL doesn’t feel like a typical ecommerce platform.
 
-The deeper I looked, the more see behavioral infrastructure:
+The deeper I looked, the more I see behavioral infrastructure:
 - hype
 - fairness
 - security
