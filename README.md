@@ -387,4 +387,4 @@ Write-up based on:
 
 Created as an **independent** product breakdown.
 
-I **do not** represent or receive compensation from EQL.
+*I **do not** represent or receive compensation from EQL.*
